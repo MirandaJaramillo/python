@@ -1,0 +1,1 @@
+# This project is a repo to start studying and practicing Python
